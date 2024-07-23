@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Biblioteca.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Biblioteca.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45b0053da7981663e5e3848126789f784021aad9")]
-[assembly: System.Reflection.AssemblyProductAttribute("Biblioteca.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Biblioteca.API")]
+[assembly: System.Reflection.AssemblyProductAttribute("Biblioteca.Common")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Biblioteca.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
