@@ -8,23 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\JGS\\.nuget\\packages\\": {},
+    "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj",
+      "projectUniqueName": "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj",
       "projectName": "Biblioteca.Entities",
-      "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj",
-      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.Entities\\obj\\",
+      "projectPath": "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\Biblioteca.Entities\\Biblioteca.Entities.csproj",
+      "packagesPath": "C:\\Users\\JGS\\.nuget\\packages\\",
+      "outputPath": "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\Biblioteca.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JGS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

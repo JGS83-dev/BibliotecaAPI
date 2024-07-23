@@ -1,176 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj": {}
+    "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.API.csproj": {
+    "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.API.csproj",
-        "projectName": "Biblioteca.API",
-        "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.API.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            },
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.1.35, )"
-            },
-            "Microsoft.Extensions.Options": {
-              "target": "Package",
-              "version": "[8.0.2, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.6, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj",
-        "projectName": "Biblioteca.Common",
-        "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.Common\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj",
+        "projectUniqueName": "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj",
         "projectName": "Biblioteca.DAL",
-        "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.DAL\\obj\\",
+        "projectPath": "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\Biblioteca.DAL\\Biblioteca.DAL.csproj",
+        "packagesPath": "C:\\Users\\JGS\\.nuget\\packages\\",
+        "outputPath": "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\Biblioteca.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JGS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -184,14 +32,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.API.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.API.csproj"
-              },
-              "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Biblioteca.Common\\Biblioteca.Common.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

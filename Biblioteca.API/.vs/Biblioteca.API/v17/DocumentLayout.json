@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\",
+  "WorkspaceRootPath": "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0868717F-8EE3-4836-B91C-EBC154AA7749}|Biblioteca.API.csproj|c:\\users\\usuario\\documents\\github\\biblioteca\\biblioteca.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0868717F-8EE3-4836-B91C-EBC154AA7749}|Biblioteca.API.csproj|f:\\users\\jgs\\eclipse-workspace\\bibliotecaapi\\biblioteca.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0868717F-8EE3-4836-B91C-EBC154AA7749}|Biblioteca.API.csproj|solutionrelative:controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AutorController.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Controllers\\AutorController.cs",
+              "DocumentMoniker": "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\Controllers\\AutorController.cs",
               "RelativeDocumentMoniker": "Controllers\\AutorController.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Biblioteca\\Biblioteca.API\\Controllers\\AutorController.cs",
+              "ToolTip": "F:\\Users\\JGS\\eclipse-workspace\\BibliotecaAPI\\Biblioteca.API\\Controllers\\AutorController.cs",
               "RelativeToolTip": "Controllers\\AutorController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

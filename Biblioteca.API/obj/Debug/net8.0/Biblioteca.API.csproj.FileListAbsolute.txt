@@ -1,0 +1,8 @@
+F:\Users\JGS\eclipse-workspace\BibliotecaAPI\Biblioteca.API\obj\Debug\net8.0\Biblioteca.API.csproj.AssemblyReference.cache
+F:\Users\JGS\eclipse-workspace\BibliotecaAPI\Biblioteca.API\obj\Debug\net8.0\Biblioteca.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\JGS\eclipse-workspace\BibliotecaAPI\Biblioteca.API\obj\Debug\net8.0\Biblioteca.API.AssemblyInfoInputs.cache
+F:\Users\JGS\eclipse-workspace\BibliotecaAPI\Biblioteca.API\obj\Debug\net8.0\Biblioteca.API.AssemblyInfo.cs
+F:\Users\JGS\eclipse-workspace\BibliotecaAPI\Biblioteca.API\obj\Debug\net8.0\Biblioteca.API.csproj.CoreCompileInputs.cache
+F:\Users\JGS\eclipse-workspace\BibliotecaAPI\Biblioteca.API\obj\Debug\net8.0\Biblioteca.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Users\JGS\eclipse-workspace\BibliotecaAPI\Biblioteca.API\obj\Debug\net8.0\Biblioteca.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Users\JGS\eclipse-workspace\BibliotecaAPI\Biblioteca.API\obj\Debug\net8.0\Biblioteca.API.sourcelink.json
